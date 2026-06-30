@@ -47,7 +47,7 @@ export const projects = [
         description: "A cross-platform mobile marketplace connecting clients with service professionals — covering discovery, quote requests, scheduling, real-time chat, and admin oversight. Built as a fixed-scope MVP with full backend, admin panel, and store-ready mobile builds.",
         image: "/project_images/agilizapro.jpeg",
         tech: ["Flutter", "Django", "Django REST Framework", "PostgreSQL", "Django Channels (WebSockets)", "Firebase Cloud Messaging", "Nginx", "Gunicorn"],
-        liveUrl: "",
+        liveUrl: "https://drive.google.com/file/d/1JKDktTgvzJL7yA6N4egGeIGHQZUuY2YJ/view?usp=sharing",
         githubUrl: "",
         status: "In Progress",
         year: "2026",
